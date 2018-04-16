@@ -4,7 +4,7 @@ A Docker image for running [Composer](https://getcomposer.org), based on [Alpine
 
 ## Versions
 
- - `1.6.4`, `latest`
+ - [`1.6.4`](https://github.com/kurtschwarz/dockerfiles/blob/php/composer/1.6.4/php/composer/Dockerfile)
 
 ## Usage
 

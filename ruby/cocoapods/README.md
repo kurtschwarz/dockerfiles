@@ -4,7 +4,7 @@ A Docker image for running [CocoaPods](https://cocoapods.org), based on [Alpine 
 
 ## Versions
 
- - `1.2.1`, `latest`
+ - [`1.2.1`](https://github.com/kurtschwarz/dockerfiles/blob/ruby/cocoapods/1.2.1/ruby/cocoapods/Dockerfile)
 
 ## Usage
 
